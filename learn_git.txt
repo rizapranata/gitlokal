@@ -2,3 +2,5 @@ belajar git
 coba coba
 
 tambahin sesuatu
+
+kalimat kedua
